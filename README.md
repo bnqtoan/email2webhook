@@ -20,7 +20,7 @@ A Cloudflare Worker that forwards incoming emails to a webhook URL. This service
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:bnqtoan/email2webhook.git
    cd email2webhook
    ```
 
